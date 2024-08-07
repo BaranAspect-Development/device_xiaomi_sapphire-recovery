@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/xiaomi/tapas
+DEVICE_PATH := device/xiaomi/sapphire
 
 # Architecture
 TARGET_ARCH                := arm64
